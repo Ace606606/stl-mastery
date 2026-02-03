@@ -1,3 +1,9 @@
+.vscode
+.cache
+.clang-format
+.clang-tidy
+build-debug
+
 # Prerequisites
 *.d
 
